@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: Lato;
+}
+input, button{
+  padding: 5px;
+  margin: 5px;
+}
+#isOutput{
+  margin: 10px;
+  text-transform: capitalize;
+}
