@@ -11,7 +11,6 @@ var thirdInput = document.querySelector("#thirdInp");
 var checkBtn = document.querySelector("#checkBtn")
 
 var isOutput = document.querySelector("#isOutput");
-var input = document.querySelector("input")
 
 checkBtn.onclick = function(){
   const a = firstInput.value;
