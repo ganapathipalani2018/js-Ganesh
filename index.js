@@ -28,5 +28,5 @@ checkBtn.onclick = function(){
   else{
     isOutput.innerHTML = `${'three values are equal: ' + a}`;
   }
-  
+  return false;
 }
